@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -77,5 +80,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
