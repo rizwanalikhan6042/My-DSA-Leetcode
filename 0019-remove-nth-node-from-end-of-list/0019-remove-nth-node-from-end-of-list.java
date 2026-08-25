@@ -18,20 +18,15 @@ class Solution {
         }
         
         int position=size-n;
-        temp=head;
-        if(size==1){
-            head=null;
-            return head;
-        }
-        if(position==0){
-         head=head.next;
-         return head;
-        }
-        while(position-1>0){
+        ListNode dummy=new ListNode(0);
+        dummy.next=head;
+        temp=dummy;
+       
+        while(position>0){
          temp=temp.next;
          position--;
         }
         temp.next=temp.next.next;
-        return head;
+        return dummy.next;
     }
 }
