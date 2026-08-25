@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -110,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
