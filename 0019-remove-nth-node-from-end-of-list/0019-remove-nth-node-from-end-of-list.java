@@ -21,7 +21,7 @@ class Solution {
         ListNode dummy=new ListNode(0);
         dummy.next=head;
         temp=dummy;
-       
+//head se ek pos phle dummy lene se bht sare edge cases handle ho jynge jisme hame head se ek pos phle khade hone ki need hogi       
         while(position>0){
          temp=temp.next;
          position--;
