@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0344-reverse-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
