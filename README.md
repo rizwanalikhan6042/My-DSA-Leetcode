@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
