@@ -18,6 +18,7 @@ public class Solution {
         if(head==null||head.next==null){
             return false;
         }
+    //dono condtn lagani hongi bcz it jumps 2 position at once so it will try to do null.next if not putting both cndtn    
         while(fast!=null&&fast.next!=null){
             slow=slow.next;
             fast=fast.next.next;
