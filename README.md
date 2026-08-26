@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
