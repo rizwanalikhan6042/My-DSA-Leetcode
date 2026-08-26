@@ -11,51 +11,27 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        // ListNode tempA=headA;
-        // ListNode tempB=headB;
-        // if(tempA==tempB){
-        //     return tempA;
-        // }
-        // while(tempA!=tempB){
-        //     if(tempA==null){
-        //         tempA=headB;
-        //     }else{
-        //     tempA=tempA.next;
-
-        //     }
-        //     if(tempB==null){
-        //         tempB=headA;
-        //     }else{
-        //     tempB=tempB.next;
-        //     }
-        //     if(tempA==tempB){
-        //         return tempA;
-        //      } 
-            ListNode tempA=headA;
+        ListNode tempA=headA;
         ListNode tempB=headB;
         if(tempA==tempB){
             return tempA;
         }
         while(tempA!=tempB){
-            
-            tempA=tempA.next;
-            tempB=tempB.next;
-            if(tempA==null&&tempB==null){
-                return null;
-            }
             if(tempA==null){
                 tempA=headB;
+            }else{
+            tempA=tempA.next;
+
             }
             if(tempB==null){
                 tempB=headA;
+            }else{
+            tempB=tempB.next;
             }
             if(tempA==tempB){
                 return tempA;
              } 
-            
-           
-
-        }
+        }  
         return null;
 
     }
