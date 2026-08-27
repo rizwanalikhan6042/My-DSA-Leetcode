@@ -16,6 +16,7 @@ class Solution {
             ans.add(matrix[i][right]);
         }
         right--;
+ //oopar isi iteration me top++ hua h isliye ye check krna zaroori h mittar , ki top kahin bottom se aage na nikla ho       
         if(top<=bottom){
             for(int i=right;i>=left;i--){
                 ans.add(matrix[bottom][i]);
@@ -23,6 +24,7 @@ class Solution {
             bottom--;
 
         }
+//oopar right-- hua h isi iteration me mittar isliye check lagana zaroori h bura na mano        
         if(left<=right){
             for(int i=bottom;i>=top;i--){
                 ans.add(matrix[i][left]);
