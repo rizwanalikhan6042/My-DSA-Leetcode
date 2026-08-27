@@ -14,49 +14,30 @@ class Solution {
             len++;
             j++;
             if(c>1){
-             if(c<10){
-                String str=String.valueOf(c);
-                chars[j]=str.charAt(0);
-                j++;
-                len++;
-             }else{
-               String str=String.valueOf(c);
-                int k=0;
-                while(k<str.length()){
-                    chars[j]=str.charAt(k);
-                    k++;
-                    j++;
-                    len++;
-                }
-             }
+            String str = String.valueOf(c);
+                    for (int k = 0; k < str.length(); k++) {
+                        chars[j++] = str.charAt(k);
+                        len++;
+                    }
+                  
             }
             
             
             c=1;
+        
         }
         }
         chars[j]=chars[i];
             len++;
             j++;
             if(c>1){
-             if(c<10){
-                String str=String.valueOf(c);
-                chars[j]=str.charAt(0);
-                j++;
-                len++;
-             }else{
-               String str=String.valueOf(c);
-                int k=0;
-                while(k<str.length()){
-                    chars[j]=str.charAt(k);
-                    k++;
-                    j++;
-                    len++;
-                }
-             }
+             String str = String.valueOf(c);
+                    for (int k = 0; k < str.length(); k++) {
+                        chars[j++] = str.charAt(k);
+                        len++;
+                    }
+                  
             }
-            
-            
         
         
       return len;
