@@ -7,10 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0048-rotate-image](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0048-rotate-image](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
