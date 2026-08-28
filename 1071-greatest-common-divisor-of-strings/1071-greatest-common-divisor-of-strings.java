@@ -1,11 +1,11 @@
 class Solution {
     private int gcd(int a, int b){
-        if(b==0){
-            return a;
+        while(b!=0){
+            int rem=a%b;
+            a=b;
+            b=rem;
         }
-        else{
-           return gcd(b,a%b);
-        }
+        return a;
     }
     public String gcdOfStrings(String str1, String str2) {
         int n=str1.length();
