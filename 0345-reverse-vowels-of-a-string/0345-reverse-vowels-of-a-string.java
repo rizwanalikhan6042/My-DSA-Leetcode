@@ -14,12 +14,12 @@ class Solution {
             char ch1=chars[i];
             char ch2=chars[j];
             
-            if(isVowel(chars[i])){
+            if(isVowel(ch1)){
                 while(i<j&&!isVowel(chars[j])){
                     j--;
                 }
             }
-            if(isVowel(chars[j])){
+            if(isVowel(ch2)){
                 while(i<j&&!isVowel(chars[i])){
                     i++;
                 }
