@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
          Arrays.sort(nums);
          long clostSum=nums[0]+nums[1]+nums[n-1];
-         
+//if u declre that clostSum inside for loop , clostSum will lose his value         
          for(int i=0;i<n-2;i++){
            
            int x=i+1;
