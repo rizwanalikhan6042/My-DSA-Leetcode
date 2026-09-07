@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0357-count-numbers-with-unique-digits](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0357-count-numbers-with-unique-digits](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 <!---LeetCode Topics End-->
