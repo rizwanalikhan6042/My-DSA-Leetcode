@@ -8,19 +8,20 @@ class Solution {
         if(n==0||k==0){
             return new int[0];
         }
+        int ind=0;
         for(int i=0;i<n;i++){
-          while(deq.size()>0&&deq.peekFirst()<i-k+1){
-            deq.pollFirst();
-          }
-          while(deq.size()>0&&nums[deq.peekLast()]<nums[i]){
-            deq.pollLast();
-          }
-          deq.offerLast(i);
-           if(i>=k-1){
-            ans[i-k+1]=nums[deq.peekFirst()];
+            if(!deq.isEmpty()&&deq.peekFirst()<i-k+1){
+                deq.pollFirst();
+            }
+            while(!deq.isEmpty()&&nums[deq.peekLast()]<nums[i]){
+                deq.pollLast();
+            }
+            deq.offerLast(i);
+            if(i>=k-1){
+             ans[ind]=nums[deq.peekFirst()];
+             ind++;
+            }
         }
-        }
-       
         return ans;
     }
 }
