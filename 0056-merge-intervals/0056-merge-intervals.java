@@ -11,6 +11,6 @@ class Solution {
             ans.get(ans.size()-1)[1]=Math.max(intervals[i][1],ans.get(ans.size()-1)[1]);
            }
         }
-            return ans.toArray(new int[ans.size()][]);    
+         return ans.toArray(new int[ans.size()][]);
     }
 }
