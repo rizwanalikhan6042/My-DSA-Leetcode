@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0048-rotate-image](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0053-maximum-subarray](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
@@ -224,4 +226,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0056-merge-intervals/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
