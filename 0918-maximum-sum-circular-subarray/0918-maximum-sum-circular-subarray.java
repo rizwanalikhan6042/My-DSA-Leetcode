@@ -14,6 +14,9 @@ class Solution {
        minsofar=Math.min(currMin,minsofar);
        totalSum+=nums[i];
       }  
+      //if evry ele is negative then ret nrmlsm
+      //otherwise crclrsum will be 0 and return to 0 bcz 0>any neg value
+      //crclrsum is 0 in this case bcz total sum will be eq to minsofar in this particular case
       if(normalSum<0){
         return normalSum;
       }
