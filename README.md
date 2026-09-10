@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
