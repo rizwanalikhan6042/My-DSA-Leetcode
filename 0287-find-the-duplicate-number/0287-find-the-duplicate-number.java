@@ -1,14 +1,16 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-    int freq[]=new int[nums.length];
-    for(int i=0;i<nums.length;i++){
-      freq[nums[i]]++;
+    int tor=nums[0];
+    int hare=nums[0];
+    do{
+        tor=nums[tor];
+        hare=nums[nums[hare]];
+      }while(tor!=hare);
+        tor=nums[0];
+        while(tor!=hare){
+            tor=nums[tor];
+            hare=nums[hare];
     }
-   for(int i=0;i<freq.length;i++){
-    if(freq[i]>=2){
-      return i;
-    }
-   }
-   return -1;
+    return tor;
     }
 }
