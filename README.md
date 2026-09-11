@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0605-can-place-flowers](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
