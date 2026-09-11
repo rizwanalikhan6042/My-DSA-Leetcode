@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0041-first-missing-positive](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
