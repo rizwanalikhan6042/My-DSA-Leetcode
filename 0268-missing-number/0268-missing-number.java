@@ -6,7 +6,7 @@ class Solution {
         if(nums[i]>n-1||nums[i]<0||nums[i]==i){
          i++;continue;
         }
-        int val=Math.abs(nums[i]);
+        int val=(nums[i]);
         int rind=val;
         if(val!=nums[rind]){
             int temp=nums[i];
