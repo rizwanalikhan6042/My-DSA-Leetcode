@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0268-missing-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0357-count-numbers-with-unique-digits](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Array
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0268-missing-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Prefix Sum
@@ -95,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -150,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0268-missing-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Stack
@@ -263,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Pigeonhole Principle
