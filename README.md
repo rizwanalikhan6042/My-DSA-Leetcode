@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0322-coin-change](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
