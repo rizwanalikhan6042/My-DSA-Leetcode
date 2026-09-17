@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0322-coin-change](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0605-can-place-flowers](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0605-can-place-flowers/) | Easy |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0322-coin-change](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0357-count-numbers-with-unique-digits](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0357-count-numbers-with-unique-digits/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Manacher
@@ -278,4 +280,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
