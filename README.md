@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0322-coin-change](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
