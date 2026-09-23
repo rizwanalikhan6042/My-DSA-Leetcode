@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/rizwanalikhan6042/My-DSA-Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
